@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📱 Phone Directory
 
 A simple phone directory application developed with Python.
@@ -26,6 +26,4 @@ A simple phone directory application developed with Python.
 - File Save/Load
 - Data Persistence
 =======
-# phone-directory
-A simple phone directory application built with Python.
->>>>>>> 4287a4ebe9f6b12f0e4882159887cd0d0e72cc3d
+
